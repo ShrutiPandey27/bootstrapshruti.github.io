@@ -1,0 +1,12 @@
+*{
+	font-family:;
+	background-color: orange;
+	display: block-inline;
+	border:2px red;
+}
+.hii{
+	border:2px red;
+	color:blue;
+	background-color: black;
+	background-border:red;
+}
